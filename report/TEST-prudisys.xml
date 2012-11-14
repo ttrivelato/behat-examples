@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite classname="behat.features" errors="0" failures="0" name="Check Prudisys Online" file="/home/ttrivelato/p/behat-examples/features/prudisys.feature" tests="2" time="8.701815">
+    <testcase classname="Check Prudisys Online" name="In home page principal check prudisys ok" time="8.700421">
+    </testcase>
+</testsuite>
